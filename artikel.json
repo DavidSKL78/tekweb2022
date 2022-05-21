@@ -1,0 +1,33 @@
+[
+    {
+        "judul":"Keunikan Burung Elang",
+        "des": "Burung elang adalah burung karnivora alias pemakan daging.",
+        "gambar": "./img/1.jpg",
+        "link":"1.md"
+    },
+    {
+        "judul":"Turnamen AIC",
+        "des": "Arena of Valor akan mengadakan turnamen internasional dengan hadiah besar.",
+        "gambar": "./img/2.jpeg",
+        "link":"2.md"
+    },
+    {
+        "judul":"ROG Phone",
+        "des": "ROG mengeluarkan Hp terbaru dengan spesifikasi tinggi untuk game barat.",
+        "gambar": "./img/3.jpg",
+        "link":"3.md"
+    },
+    {
+        "judul":"C++",
+        "des": "Bahasa Pemrograman C++ saat ini sangat digandrungi oleh para programer.",
+        "gambar": "./img/4.jpg",
+        "link":"4.md"
+    },
+    {
+        "judul":"Final UCL 2022",
+        "des": "real Madrid Vs Man City akan melakukan pertandingan final UCL pada tanggal 29 Mei 2022.",
+        "gambar": "https://images.newyorkredbulls.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/mls-rbny-prd/g7d8fkcewsm2ahfhciqh.jpg",
+        "link":"5.md"
+    }
+    
+]

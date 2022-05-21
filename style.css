@@ -1,0 +1,84 @@
+body{
+    min-height: 2px;
+    color: white;
+    background: #4776E6;  
+    background: -webkit-linear-gradient(to right, #131216, #717580); 
+    background: linear-gradient(to right, #050505, #525f7e); 
+
+}
+.jumbotron {
+    padding: 2rem 1rem;
+    background-color: #605863;  
+}
+
+.sosmed ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    display: inline-block;
+    padding: 7px 12px;
+    border-radius: 4px;
+    margin-right: 6px;
+}
+li.instagram {
+    background:linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+}
+li.twitter {
+    background: #00acee;
+}
+li.facebook {
+    background-color: #4267B2;
+}
+li i {
+    margin: 0px 5px 0px 0px;
+}
+li.twitter a, li.instagram a , li.facebook a{
+    color: white;
+}li.github a {color: black;}
+li > a {
+    text-decoration: none;
+}
+.card img {
+   height: 300px;
+   width: 320px;
+
+}
+#jumbotron {
+    height: 100vh; 
+}
+
+#about {
+    height: 100vh;
+}
+
+#skill{
+    background-color: #605863;
+    height: 500px;
+    height: 100vh;
+}
+#contact {
+    height: 100vh;
+    margin-top: 20px;
+}
+
+.card .card-body{
+    color: #050505;
+}
+.table{
+    background-color: #ffffff;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #ffffff;
+    color: black;
+}
+
+.img img {
+    border-radius: 90%;
+}
+
+.sosmed a {
+    color: #ffffff;
+}
